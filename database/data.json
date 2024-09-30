@@ -1,0 +1,38 @@
+[
+    {
+    "name": "Lidl",
+    "location": "Town Centre ",
+    "openingTime": "08:00 to 22:00",
+    "restrictions": "2 h max park",
+    "town": "Burton Upon Trent",
+    "what3words": "///stacks.dare.upper",
+    "directions": "Entrance is from Lichfield Street."
+},
+{
+    "name": "Tesco",
+    "location": "Town Centre ",
+    "openingTime": "07:00 to 23:00",
+    "restrictions": "No Arctic",
+    "town": "Burton Upon Trent",
+    "what3words": "///names.edgy.vent",
+    "directions": "Entrance is from Branston Rd."
+},
+{
+    "name": "Vasilica J",
+    "location": "la Apratament ",
+    "openingTime": "13:00 to 23:00",
+    "restrictions": "se parcheaza doar cu fata  ",
+    "town": "Burton Upon Trent",
+    "what3words": "///soaks.radio.wiser",
+    "directions": "Entrance is from Blackpool St."
+},
+{
+    "name": "Basti",
+    "location": " Littleover",
+    "openingTime": "08:00 to 11:00",
+    "restrictions": "Nu parca pe iarba ",
+    "town": "Derby",
+    "what3words": "///client.dose.insert",
+    "directions": "Entrance is from Blackpool St."
+}
+]
